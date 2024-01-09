@@ -3,6 +3,16 @@
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
 It contains all the necessary configuration and some placeholder files to get you started.
 
+# How simulate the error:
+
+Start the project;
+
+Click in button and wait the message;
+
+Click in button again and wait the message;
+
+The button will stay disable
+
 ## Running the application
 
 The project is a standard Maven project. To run it from the command line,
